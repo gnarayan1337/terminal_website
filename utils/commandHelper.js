@@ -95,7 +95,11 @@ export const CONTENTS = {
   error: (input) =>
     `<div class="help-command">shell: Unknown command: ${input}</div><div class="help-command">See \`help\` for info`,
   blog: () => {
-    window.open("https://gnarayan.com/gautam_narayan_cv.pdf", "_blank");
-    return "";
+    
+    var pdf = gautam_narayan_cv.pdf;
+    window.open(pdf);
+    
+    <!--window.open("https://gnarayan.com/gautam_narayan_cv.pdf", "_blank");
+    <!--return "";
   },
 };
