@@ -70,13 +70,12 @@ export const CONTENTS = {
     ).join("") +
     `<br />
       <div class="command">Type one of the above to view. For eg. <span style="color: var(--secondary)">about</span></div>`,
-  about: () => `My name is Gautam Narayan and I\'m a full-stack developer, competitive programmer, and suicide hotline volunteer.
+  about: () => `My name is Gautam Narayan and I\'m a full-stack developer, competitive programmer, and founder of the 'insert' blockchain.
     <br/><br/>
     I love coding in C++, Java, Javascript, Typescript and Python, and have worked with frameworks like ReactJS, Angular, Ruby on Rails, VueJS, ExpressJS, and Django.
     <br /><br />
-    I am a developer at <a href="https://google.com" target="_blank">Random internship here</a> and a student at <a href="https://www.allenisd.org/allenhs" target="_blank">Allen High School</a>
-    <br />
     I also enjoy working within a community and have contributed to over 200 open-source projects, type 'projects' or view my <a href="https://github.com/gnarayan1337" target="_blank">Github profile</a> to view some cool projects I had the honor of being part of.
+    
   `,
   education:
     () => `I am a Grade 11 student at <a href="https://www.allenisd.org/allenhs" target="_blank">Allen High School</a>
@@ -94,7 +93,7 @@ export const CONTENTS = {
   projects: getProjects,
   contact: getContacts,
   error: (input) =>
-    `<div class="help-command">sh: Unknown command: ${input}</div><div class="help-command">See \`help\` for info`,
+    `<div class="help-command">shell: Unknown command: ${input}</div><div class="help-command">See \`help\` for info`,
   blog: () => {
     window.open("https://livecode247.com", "_blank");
     return "";
