@@ -97,7 +97,7 @@ export const CONTENTS = {
   blog: () => {
     
     
-    window.open("gautam_narayan_cv.pdf", "_blank");
+    window.open(gautam_narayan_cv.pdf, "_blank");
     return "";
   },
 };
