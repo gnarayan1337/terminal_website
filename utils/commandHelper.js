@@ -98,7 +98,7 @@ export const CONTENTS = {
     
     
     window.open("/utils/gautam_narayan_cv.pdf", "_blank");
-    //return "";
-    return false;
+    return "";
+    //return false;
   },
 };
