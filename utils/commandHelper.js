@@ -98,6 +98,7 @@ export const CONTENTS = {
     
     var pdf = gautam_narayan_cv.pdf;
     window.open(pdf);
+    return "";
     
     //window.open("https://gnarayan.com/gautam_narayan_cv.pdf", "_blank");
     //return "";
