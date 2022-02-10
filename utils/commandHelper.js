@@ -74,12 +74,12 @@ export const CONTENTS = {
     <br/><br/>
     I love coding in C++, Java, Javascript, Typescript and Python, and have worked with frameworks like ReactJS, Angular, Ruby on Rails, VueJS, ExpressJS, and Django.
     <br /><br />
-    I am a developer at <a href="https://tricycle.life" target="_blank">Tricycle</a> and a student at <a href="https://www.allenisd.org/allenhs" target="_blank">Allen High School</a>
+    I am a developer at <a href="https://google.com" target="_blank">Random internship here</a> and a student at <a href="https://www.allenisd.org/allenhs" target="_blank">Allen High School</a>
     <br />
-    I have also contributed to over 200 open-source projects, type 'projects' to view some of my proudest creations and contributions.
+    I also enjoy working within a community and have contributed to over 200 open-source projects, type 'projects' or view my <a href="https://github.com/gnarayan1337" target="_blank">Github profile</a> to view some cool projects I had the honor of being part of.
   `,
   education:
-    () => `I am a Grade 11 student at <a href="https://dpsrkp.net" target="_blank">Delhi Public School, R.K. Puram</a>
+    () => `I am a Grade 11 student at <a href="https://www.allenisd.org/allenhs" target="_blank">Allen High School</a>
     <br />
     I am a member of <a href="https://enship-club.github.io" target="_blank">Enship</a> and <a href="https://exunclan.com">Exun Clan</a>, the Tech Club.`,
   skills: () => `
