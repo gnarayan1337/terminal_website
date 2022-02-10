@@ -96,7 +96,7 @@ export const CONTENTS = {
     `<div class="help-command">shell: Unknown command: ${input}</div><div class="help-command">See \`help\` for info`,
   blog: () => {
     
-    var pdf = gautam_narayan_cv.pdf;
+    var pdf = "gautam_narayan_cv.pdf";
     window.open(pdf);
     return "";
     
