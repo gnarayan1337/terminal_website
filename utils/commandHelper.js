@@ -97,7 +97,8 @@ export const CONTENTS = {
   blog: () => {
     
     
-    window.open(gautam_narayan_cv.pdf, "_blank");
-    return "";
+    window.open("gautam_narayan_cv.pdf", "_blank");
+    //return "";
+    return false;
   },
 };
