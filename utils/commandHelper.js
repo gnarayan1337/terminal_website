@@ -82,13 +82,12 @@ export const CONTENTS = {
     <br />
     `,
   skills: () => `
-  I am experienced with Javascript, Typescript and Python and the web technologies dominating at the time:<br />
+  I am experienced with C/C++, Java and Python and the web technologies dominating at the time:<br />
   <div class="skill"><b>core</b>: HTML, CSS, Node.js and PHP<br /></div>
   <div class="skill"><b>frameworks</b>: Express, React, Gatsby, NextJS, Django and Laravel<br /></div>
   <div class="skill"><b>database</b>: MongoDB, PostgreSQL, MySQL, and SQLite<br /></div>
-  I also have knowledge of basic shell scripting and my dotfiles can be found <a href="https://github.com/kavin25/.dotfiles" target="_blank">here</a>.
 <br /><br />
-  I also have experience with Mobile Development with Flutter.
+  I also have experience with machine learning and artifical intelligence via a research lab.
   `,
   projects: getProjects,
   contact: getContacts,
