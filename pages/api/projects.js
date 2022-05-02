@@ -179,7 +179,7 @@ export default async function handler(req, res) {
         stack: ["C++", "Python", "MLIR", "HTML"],
         link: "https://github.com/gnarayan1337/tensorflow",
         image: "cognizer.png",
-      },
+      },/*
       {
         name: "Exun Notifications Platform (Cannot share code/link)",
         description:
@@ -274,7 +274,7 @@ export default async function handler(req, res) {
         stack: ["Python", "Django"],
         link: "https://github.com/kavin25/jeopardyquiz-with-django",
         image: "quiz.png",
-      },
+      }, */
     ];
 
     return res.json(projects);
