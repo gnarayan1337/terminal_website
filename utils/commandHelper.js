@@ -13,7 +13,7 @@ const COMMANDS = [
   },
   {
     command: "projects",
-    description: "My Projects/Project Contributions",
+    description: "My Projects/Contributions",
   },
   {
     command: "contact",
