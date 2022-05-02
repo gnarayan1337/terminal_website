@@ -80,7 +80,7 @@ export const CONTENTS = {
   education:
     () => `I am a Grade 11 student at <a href="https://www.allenisd.org/allenhs" target="_blank">Allen High School</a>
     <br />
-   // I am a member of <a href="https://enship-club.github.io" target="_blank">Enship</a> and <a href="https://exunclan.com">Exun Clan</a>, the Tech Club.`,
+   , the Tech Club.`,
   skills: () => `
   I am experienced with Javascript, Typescript and Python and the web technologies dominating at the time:<br />
   <div class="skill"><b>core</b>: HTML, CSS, Node.js and PHP<br /></div>
