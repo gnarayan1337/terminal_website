@@ -43,10 +43,11 @@ export default function Home() {
           Normal website (GUI) 
         </a>
       </p>
-      */
+      
       <p>
         &nbsp;         
       </p>
+      */
 
       
 
