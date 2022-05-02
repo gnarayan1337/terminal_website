@@ -74,7 +74,7 @@ export const CONTENTS = {
     <br/><br/>
     I love coding in C++, Java, Javascript, Typescript and Python, and have worked with frameworks like ReactJS, Angular, Ruby on Rails, VueJS, ExpressJS, and Django.
     <br /><br />
-    I also enjoy working with other people and have contributed to over 200 open-source projects, type 'projects' or view my <a href="https://github.com/gnarayan1337" target="_blank">github profile</a> to view some cool projects I had the honor of being part of.
+    I also enjoy working with other people and have contributed to over a hundred open-source projects, type 'projects' or view my <a href="https://github.com/gnarayan1337" target="_blank">github profile</a> to view SOME of the cool projects I had the honor of being part of (not all of them are on my github and I'm working on getting them all up there).
     
   `,
   education:
