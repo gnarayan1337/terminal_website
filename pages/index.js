@@ -36,18 +36,6 @@ export default function Home() {
       <h1>
         Gautam Narayan ~ $ <span className={styles.help}>type help to start</span>
       </h1>
-/*
-      <p>
-        Don&#39;t like the terminal&#8208;style website&#63; Visit{" "}
-        <a href="https://gnarayan1337.github.io" target="_blank" rel="noreferrer">
-          Normal website (GUI) 
-        </a>
-      </p>
-      
-      <p>
-        &nbsp;         
-      </p>
-      */
 
       
 
