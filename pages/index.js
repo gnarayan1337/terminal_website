@@ -36,7 +36,7 @@ export default function Home() {
       <h1>
         Gautam Narayan ~ $ <span className={styles.help}>type help to start</span>
       </h1>
-
+    <br /><br />
       
 
       <Terminal />
