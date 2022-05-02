@@ -78,7 +78,7 @@ export const CONTENTS = {
     
   `,
   education:
-() => `I am a Grade 11 student at <a href="https://dpsrkp.net" target="_blank">Delhi Public School, R.K. Puram</a>
+() => `I am a Grade 11 student at <a href="https://www.allenisd.org/allenhs" target="_blank">Allen High School</a>
     <br />
     `,
   skills: () => `
