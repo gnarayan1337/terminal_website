@@ -157,7 +157,7 @@ export default async function handler(req, res) {
       {
         name: "Shapez.io",
         description:
-          "Video Game - I helped create the language functionality",
+          "Web Based Video Game - Contributed to language functionality",
         stack: ["Javascript", "SCSS"],
         link: "https://github.com/gnarayan1337/shapez.io",
         image: "enship.jpeg",
@@ -166,18 +166,18 @@ export default async function handler(req, res) {
       {
         name: "Neovim",
         description:
-          "I added documentation",
+          "Hyperextensible Vim-based text editor - Fixed bugs found in Clang, PVS, and Coverity",
         stack: ["C", "Lua", "Vim Script", "Python", "Shell", "CMake"],
-        link: "https://new-delhi-space-society.github.io/",
+        link: "https://github.com/gnarayan1337/neovim",
         image: "ndss.png",
         largeImage: "ndss-lg.png",
       },
       {
-        name: "Cognizer",
+        name: "Tensorflow",
         description:
-          "A Chrome Extension that allows you to connect with people during and also soon after the conference or meet ends. Second Runner's up at Code Warriors soBig.s Hackathon 2021",
-        stack: ["Javascript", "NodeJS", "Adonis", "Chrome Extension API"],
-        link: "https://cognizer.kavin.me/",
+          "An Open Source Machine Learning Framework for Everyone - Added documentation",
+        stack: ["C++", "Python", "MLIR", "HTML"],
+        link: "https://github.com/gnarayan1337/tensorflow",
         image: "cognizer.png",
       },
       {
